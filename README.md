@@ -1,4 +1,4 @@
-# task 1.2
+# task 2.0
 
 ## Collaborator
 Pranav chaudhary
